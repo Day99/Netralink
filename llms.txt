@@ -21,3 +21,15 @@ Beroperasi dari Makassar, Palu, dan Jakarta; menangani proyek di seluruh Indones
 - Email: hidayat@timurintisinergi.co.id
 - Situs: https://netralink.timurintisinergi.co.id/
 - Profil (PDF): https://netralink.timurintisinergi.co.id/compro-netralink.pdf
+
+## Halaman layanan & produk
+- [Network Infrastructure](https://netralink.timurintisinergi.co.id/layanan/network-infrastructure/): Fondasi kabel dan fiber yang rapi, terdokumentasi, dan siap dikembangkan.
+- [Enterprise WiFi](https://netralink.timurintisinergi.co.id/layanan/enterprise-wifi/): Sinyal merata di setiap lantai dengan manajemen terpusat.
+- [CCTV & Monitoring](https://netralink.timurintisinergi.co.id/layanan/cctv-dan-monitoring/): Keamanan visual dan pemantauan jaringan dari mana saja.
+- [Power & Maintenance](https://netralink.timurintisinergi.co.id/layanan/power-dan-maintenance/): Operasional tetap berjalan saat listrik bermasalah.
+- [Perangkat Jaringan](https://netralink.timurintisinergi.co.id/produk/perangkat-jaringan/): Perangkat aktif untuk LAN, WiFi, dan konektivitas internet, dari skala kantor kecil hingga gedung bertingkat.
+- [Komputer & Laptop](https://netralink.timurintisinergi.co.id/produk/komputer-dan-laptop/): Perangkat kerja untuk staf, admin, operator, dan ruang server.
+- [CCTV & Keamanan](https://netralink.timurintisinergi.co.id/produk/cctv-dan-keamanan/): Perangkat pemantauan visual dan kontrol akses untuk gedung dan area usaha.
+- [Power & UPS](https://netralink.timurintisinergi.co.id/produk/power-dan-ups/): Proteksi daya agar perangkat penting tidak mati mendadak.
+- [Aksesoris Fiber Optik](https://netralink.timurintisinergi.co.id/produk/aksesoris-fiber-optik/): Material pasif fiber untuk backbone gedung, antar lantai, hingga ke perangkat aktif.
+- [Aksesoris Jaringan & Rack](https://netralink.timurintisinergi.co.id/produk/aksesoris-jaringan-dan-rack/): Material copper, rack, dan manajemen kabel untuk instalasi yang rapi dan mudah dirawat.
